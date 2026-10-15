@@ -1,0 +1,21 @@
+# Données : non redistribuables (conditions Kaggle) et trop volumineuses pour GitHub (limite de 100 Mo par fichier)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Éditeurs et systèmes
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
