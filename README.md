@@ -78,8 +78,8 @@ Prérequis : Python 3.11 (version utilisée pour développer le projet) et un co
 
 ```bash
 # 1. Récupérer le projet
-git clone <url-du-depot>
-cd <nom-du-depot>
+git clone https://github.com/Florentvsn/projet-pd-home-credit
+cd projet-pd-home-credit
 
 # 2. Créer un environnement virtuel et installer les dépendances
 python -m venv venv
